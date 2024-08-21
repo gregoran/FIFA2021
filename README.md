@@ -92,4 +92,4 @@ The dataset is messy and requires cleaning and transformation to make it readabl
 
 ---
 
-Feel free to adjust or add any additional details as needed!
+Feel free to dive into the files and documents I snagged from the Kaggle site.
